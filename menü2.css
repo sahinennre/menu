@@ -8,8 +8,8 @@ body{
 }
 .a{
     display: inline-block;
-    width: 750px; /* Div'lerin genişliği */
-  height: 100px; /* Div'lerin yüksekliği */
+    width: 750px;
+  height: 100px; 
   background-color: #000000;
   color: aliceblue;
   font-size: xx-large;
