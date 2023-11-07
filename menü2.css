@@ -1,0 +1,78 @@
+body{
+    background-color:plum
+}
+.baslik{
+    text-align: center;
+    position: fixed;
+    z-index: 1;
+}
+.a{
+    display: inline-block;
+    width: 750px; /* Div'lerin genişliği */
+  height: 100px; /* Div'lerin yüksekliği */
+  background-color: #000000;
+  color: aliceblue;
+  font-size: xx-large;
+ 
+}
+
+.tüm{
+    position: relative;
+    top: 300px;
+    
+    
+}
+.kebap{
+    width: 350px;
+    height: 250px;
+    position: relative;
+    bottom: 500px;
+}
+.kebap2{
+    width: 350px;
+    height: 250px;
+    position: relative;
+    bottom: 250px;
+    right: 350px;
+}
+.kebap3{
+    width: 350px;
+    height: 250px;
+    position: relative;
+    right: 705px;
+    
+
+}
+.ayran{
+    position: relative;
+    bottom: 510px;
+    left: 150px;
+}
+.salgam{
+    width: 250px;
+    height: 250px;   
+    position: relative;
+    left: 1250px;
+    bottom: 520px;
+}
+
+.yan-yana{
+   
+       
+}
+.form-kutusu{
+    background-color: aliceblue;
+    border: 5px solid rgb(14, 8, 1);
+    padding: 30px;
+    width: 170px;
+    position: relative;
+    left: 600px;
+    bottom: 100px;
+}
+
+
+
+
+
+
+
